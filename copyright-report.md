@@ -201,3 +201,6 @@ Gap Analysis: Discuss any gaps you observed between:
     3. Actual enforcement (what actually happened)
 
 - In general I did see one arguably small gap in my task 2. According to the DMCA my posting of these copyrighted disney clips would not be protected as fair use as it is not transformative and a direct reposting of a creative work. Therefore it should be removed from X. However, considering that X seemingly requires copyright holders to submit manual requests, and the fact that my account has very little reach and therefore a minimal effect on the market status of the original work, there was no repercussion or restriction of my posts. In general this points to the fact that although the law is fairly clear in some cases, it is difficult to enforce at large scale without a system like Youtube's content ID. As a result minimal offenses can often go completely unnoticed and directly violate policy without anyhting being done about it. 
+
+
+Finally here is a link to the account that I made for this. As of now none of the posts have been taken down yet: "https://x.com/hugh_g_mungous"
